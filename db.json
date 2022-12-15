@@ -111,21 +111,21 @@
   "collections": [
     {
       "id": 16,
-      "type": "collection",
+      "type": "zbiórka",
       "name": "1",
       "goals": "yyyyy",
       "stuff": "xx, cc, ee"
     },
     {
       "id": 17,
-      "type": "collection",
+      "type": "zbiórka",
       "name": "2",
       "goals": "yyyyy",
       "stuff": "xx, cc, ee"
     },
     {
       "id": 18,
-      "type": "collection",
+      "type": "zbiórka",
       "name": "3",
       "goals": "yyyyy",
       "stuff": "xx, cc, ee"
