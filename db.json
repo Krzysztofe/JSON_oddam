@@ -130,5 +130,26 @@
       "goals": "yyyyy",
       "stuff": "xx, cc, ee"
     }
+  ],
+  "summary": [
+    {
+      "id": 19,
+      "number": "1",
+      "activity": "oddanych worków",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum delectus dolorum ducimus laborum minima omnis porro quis veritatis!",
+      
+    },
+    {
+      "id": 20,
+      "number": "2",
+      "activity": "wspartych organizacji",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum delectus dolorum ducimus laborum minima omnis porro quis veritatis!",
+    },
+    {
+      "id": 21,
+      "number": "3",
+      "activity": "zorganizowanych zbiórek",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum delectus dolorum ducimus laborum minima omnis porro quis veritatis!",
+    }
   ]
 }
